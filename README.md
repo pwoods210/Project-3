@@ -1,2 +1,2 @@
-# Project-3
+# Project3
 repo for project 3
